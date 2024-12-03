@@ -6,10 +6,9 @@ import { About } from "./pages/About"
 import { Navbar } from "./components/NavBar"
 
 function App() {
-  <>
+  return <>
     <Navbar/>
     <Container className="mb-4 p-4">
-        Creating app in ReactTS
         <Routes>
           <Route path="/" element={<Home/>}></Route>
           <Route path="/store" element={<Store/>}></Route>
@@ -17,7 +16,6 @@ function App() {
         </Routes>
     </Container>
   </>
-  
 }
 
 export default App
