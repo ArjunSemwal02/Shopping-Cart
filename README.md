@@ -1,50 +1,25 @@
-# React + TypeScript + Vite
+The images used for the store page are free stock photos downloaded from pexels and the credits are - 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Photo of the Book - 
+Photo by Lisa Fotios from Pexels: https://www.pexels.com/photo/white-and-blue-ceramic-mug-near-green-plant-1516983/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The photo of fruits -
+Photo by Jane Trang Doan: https://www.pexels.com/photo/sliced-fruits-on-tray-1132047/
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+The photo of the desktop - 
+Photo by Pixabay: https://www.pexels.com/photo/silver-imac-apple-magic-keyboard-and-magic-mouse-on-wooden-table-38568/
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+The Photo of the smartphone - 
+Photo by Tyler Lastovich: https://www.pexels.com/photo/black-iphone-7-on-brown-table-699122/
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+The T-shirt Photo - 
+Photo by Ron Lach : https://www.pexels.com/photo/fashion-shopping-indoors-no-people-9594692/
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+
+
+
+
