@@ -3,30 +3,30 @@
         "id": 0,
         "name": "The Book",
         "price": 100,
-        "imgUrl": "imgs/pexels-fotios-photos-1516983.jpg"
+        "imgUrl": "/imgs/pexels-fotios-photos-1516983.jpg"
     },
     {
         "id": 1,
         "name": "Fruits",
         "price": 120,
-        "imgUrl": "imgs/pexels-janetrangdoan-1132047.jpg"
+        "imgUrl": "/imgs/pexels-janetrangdoan-1132047.jpg"
     },
     {
         "id": 2,
         "name": "Descent Desktop",
         "price": 50999,
-        "imgUrl": "imgs/pexels-pixabay-38568.jpg"
+        "imgUrl": "/imgs/pexels-pixabay-38568.jpg"
     },
     {
         "id": 3,
         "name": "Premium Smartphone",
         "price": 15099,
-        "imgUrl": "imgs/pexels-lastly-699122.jpg"
+        "imgUrl": "/imgs/pexels-lastly-699122.jpg"
     },
     {
         "id": 4,
         "name": "T-shirt",
         "price": 599,
-        "imgUrl": "imgs/pexels-ron-lach-9594692.jpg"
+        "imgUrl": "/imgs/pexels-ron-lach-9594692.jpg"
     }
 ]
