@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ArjunSemwal02.github.io/Shopping-Cart/",
+  "homepage": "https://arjunsemwal02.github.io/Shopping-Cart/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
